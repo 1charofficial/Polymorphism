@@ -1,0 +1,12 @@
+/Users/codenationstudfent/Desktop/csharp/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.deps.json
+/Users/codenationstudfent/Desktop/csharp/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.json
+/Users/codenationstudfent/Desktop/csharp/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.dev.json
+/Users/codenationstudfent/Desktop/csharp/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.dll
+/Users/codenationstudfent/Desktop/csharp/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.pdb
+/Users/codenationstudfent/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csprojAssemblyReference.cache
+/Users/codenationstudfent/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfoInputs.cache
+/Users/codenationstudfent/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfo.cs
+/Users/codenationstudfent/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csproj.CoreCompileInputs.cache
+/Users/codenationstudfent/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.dll
+/Users/codenationstudfent/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.pdb
+/Users/codenationstudfent/Desktop/csharp/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.genruntimeconfig.cache
